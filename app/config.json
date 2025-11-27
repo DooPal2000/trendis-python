@@ -1,0 +1,10 @@
+{
+    "appName" : "Trendis",
+    "appVersion" : "Beta 1.0",
+    "appPort" : 3000,
+    "google_oauth": {
+            "client_id": "yourSecret",
+            "client_secret": "yourID",
+            "redirect_uri": "http://localhost:3000/auth"
+    }
+}
